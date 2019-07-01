@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fetch">FETCH</string>
+    <string name="example_text">This is an example text</string>
+    <string name="dictionary">DICTIONARY</string>
+    <string name="default_url">http://example.com</string>
+    <string name="menu_register">単語帳に登録</string>
+    <string name="menu_weblio">Weblioで検索</string>
+</resources>
